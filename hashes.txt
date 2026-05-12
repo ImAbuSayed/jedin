@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Jedin
+
+This log tracks the cryptographic history and versioning for the song **Jedin** (jedin).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-13T05:27:05.148667 | `v1` | `421768f0fdbd370fb9a85c2e354e47665647642ff291fa447f7f0826be91927d` | `8d8adbded6dfd7ea7cba984dc18adac156cc9b2aa68536af3349bca8f2483d86` | `2026-05-13_jedin-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
